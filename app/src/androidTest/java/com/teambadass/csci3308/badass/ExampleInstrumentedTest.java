@@ -30,5 +30,6 @@ public class ExampleInstrumentedTest {
 
         onView(withId(R.id.MainActivity)).check(matches(isDisplayed()));
 
+
     }
 }
